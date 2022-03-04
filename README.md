@@ -3,7 +3,8 @@
  In addition I'm also with the knowledge with embeded systems using hardware components.
 - 🌱 I’m currently  working as graduate research assitant in Kansas State University. 
 - 💞️ I’m looking to collaborate on interesting interdisciplinary projects in which implement computer based solutions to make life easier. 
-- 📫 You can reach me via dishannahitiya@gmail.com or dishan@ksu.edu [More about me.](https://dishan3x.github.io/DishanNahitiya/)
+- 📫 You can reach me via dishannahitiya@gmail.com or dishan@ksu.edu 
+- [bit about my self.](https://dishan3x.github.io/DishanNahitiya/)
 
 <!---
 dishan3x/dishan3x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
